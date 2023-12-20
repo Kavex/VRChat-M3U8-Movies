@@ -1,6 +1,6 @@
 
 # VRChat-M3U8-Movies
-How to grab movies to play in the VRChat's Video Player
+How to grab movies/tv/anime to play in the VRChat's Video Player
 
 **Requirements**
 
