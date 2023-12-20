@@ -19,9 +19,10 @@ A good antivirus that blocks questionable popup links like https://www.avast.com
 
 **URLS**
 
-https://fmoviesz.to/
+[nepu.to](https://nepu.to/)
 
-https://nepu.to/
+[fmoviesz.to](https://fmoviesz.to/) (has some nasty ADs without suggested)
+
 
 [Aniwave.to](https://aniwave.to/) 
 
