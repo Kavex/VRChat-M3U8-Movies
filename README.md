@@ -3,7 +3,9 @@
 How to grab movies for VRChat's Video Player
 
 **Requirements**
+
 Latest Chrome
+
 [M3u8 finder and hls-player Extention](https://chromewebstore.google.com/detail/m3u8-finder-and-hls-playe/gijhpnmjcpbddpedmmdihijogkkejfgj) 
 
 **Suggested**
