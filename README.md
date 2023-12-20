@@ -14,6 +14,8 @@ Latest Chrome
 
 Really suggested to have a popup blocker because some of these sites are questionable with Ads.
 
+[Privacy Badger](https://chromewebstore.google.com/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)
+
 A good antivirus that blocks questionable popup links like https://www.avast.com/en-us/index#pc
 
 
