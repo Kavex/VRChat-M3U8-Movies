@@ -17,13 +17,13 @@ Really suggested to have a popup blocker because some of these sites are questio
 A good antivirus that block questionable links like https://www.avast.com/en-us/index#pc
 
 
-URLS: 
+**URLS**
 
 https://fmoviesz.to/
 
 https://nepu.to/
 
-How to:
+**How to**
 
 1. Start playing to video on the site
 2. Click on the M3u8 finder and hls-player Extention 
