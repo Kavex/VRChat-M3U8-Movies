@@ -14,7 +14,7 @@ Latest Chrome
 
 Really suggested to have a popup blocker because some of these sites are questionable with Ads.
 
-A good antivirus that block questionable links like https://www.avast.com/en-us/index#pc
+A good antivirus that blocks questionable popup links like https://www.avast.com/en-us/index#pc
 
 
 **URLS**
