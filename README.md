@@ -23,6 +23,8 @@ https://fmoviesz.to/
 
 https://nepu.to/
 
+[Aniwave.to](https://aniwave.to/) 
+
 **How to**
 
 1. Start playing to video on the site
