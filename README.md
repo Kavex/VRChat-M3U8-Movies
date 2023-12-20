@@ -12,7 +12,7 @@ Latest Chrome
 
 [UBlock Orgin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 
-Really suggested to have a popup blocker some some of these sites are questionable with Ads.
+Really suggested to have a popup blocker because some of these sites are questionable with Ads.
 
 URLS: 
 
