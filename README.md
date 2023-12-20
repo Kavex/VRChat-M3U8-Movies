@@ -23,9 +23,13 @@ A good antivirus that blocks questionable popup links like https://www.avast.com
 
 [nepu.to](https://nepu.to/) (Try this one first)
 
-[bflix.sx](https://bflix.sx/home)
+[movie-web.app](https://movie-web.app/) (Click on the gear to change the source so one with mu38)
 
-[fmoviesz.to](https://fmoviesz.to/) (has some nasty ADs without suggested)
+[fmoviesz.to](https://fmoviesz.to/) (needs Ad blocker for sure)
+
+[sflix.to](https://sflix.to/)
+
+[bflix.sx](https://bflix.sx/home)
 
 [flixhq.click](https://flixhq.click/home/) (This site is hit and miss)
 
