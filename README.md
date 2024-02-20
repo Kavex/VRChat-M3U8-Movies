@@ -35,10 +35,9 @@ A good antivirus that blocks questionable popup links like https://www.avast.com
 
 [flixwave.to](https://flixwave.to/)
 
-[dhokla.net](https://dhokla.net/) (Direct links that don't need the extentions)
-
 [Megathread Movies/TV](https://www.reddit.com/r/Piracy/wiki/megathread/movies_and_tv/) (find a sites to use to stream with)
 
+[dhokla.net](https://dhokla.net/) (Free file hosting with Direct links that don't need the extentions)
 
 **Anime URLS**
 
